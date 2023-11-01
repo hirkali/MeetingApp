@@ -11,13 +11,13 @@ public class HomeController : Controller
         int saat = DateTime.Now.Hour;
         
         ViewBag.Selamlama = saat > 12 ? "İyi Günler" : "Günaydın";
-        ViewBag.Username = "Eren";
+        int UserCount = Repository.Users.Where(i => i.WillAttend == true).Count();
         var meetingInfo = new MeetingInfo()
         {
             Id = 1,
             Location = "Ankara Kongre Merkezi",
             Date = new DateTime(2024,01,20,20,0 ,0,00),
-            NumberOfPeople = 100
+            NumberOfPeople = UserCount
             
         };
         

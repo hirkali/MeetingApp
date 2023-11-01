@@ -1,27 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\eren.demir\\Desktop\\MeetingApp\\MeetingApp.csproj": {}
+    "/Users/erendemir/Desktop/MeetingApp/MeetingApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\eren.demir\\Desktop\\MeetingApp\\MeetingApp.csproj": {
+    "/Users/erendemir/Desktop/MeetingApp/MeetingApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eren.demir\\Desktop\\MeetingApp\\MeetingApp.csproj",
+        "projectUniqueName": "/Users/erendemir/Desktop/MeetingApp/MeetingApp.csproj",
         "projectName": "MeetingApp",
-        "projectPath": "C:\\Users\\eren.demir\\Desktop\\MeetingApp\\MeetingApp.csproj",
-        "packagesPath": "C:\\Users\\eren.demir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eren.demir\\Desktop\\MeetingApp\\obj\\",
+        "projectPath": "/Users/erendemir/Desktop/MeetingApp/MeetingApp.csproj",
+        "packagesPath": "/Users/erendemir/.nuget/packages/",
+        "outputPath": "/Users/erendemir/Desktop/MeetingApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\eren.demir\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/erendemir/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "/usr/local/share/dotnet/sdk/7.0.307/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -58,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.307/RuntimeIdentifierGraph.json"
         }
       }
     }

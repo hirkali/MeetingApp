@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kYNJz92RxhWf/lpMgfWUVq9D3ttJopMI9nAnmQlwrs8M42Cg7s+AY5b1acnZhoRgfpVta8jAXNqVWoEQ98DAWw==",
+  "dgSpecHash": "cdvlBpFSv81W6mqIfN2fcPyofa/I2wONqY40NiHGXt7TURyUgotv8hwUCiqopKoLF8M6sJGFekS/7LV0z/KQkQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\eren.demir\\Desktop\\MeetingApp\\MeetingApp.csproj",
+  "projectFilePath": "/Users/erendemir/Desktop/MeetingApp/MeetingApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
